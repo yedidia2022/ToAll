@@ -1,3 +1,6 @@
 [submodule "TwitterProject"]
 	path = TwitterProject
 	url = https://github.com/yedidia2022/TwitterProject.git
+[submodule "HMOproject"]
+	path = HMOproject
+	url = https://github.com/yedidia2022/HMOproject.git
